@@ -1,4 +1,4 @@
-Atividade_2_questao_17
+Atividade_2_questao_17: Criação da classe ContaBanco.
 
 Crie uma Classe chamada ContaBanco que um banco poderia utilizar para representar contas bancárias dos clientes.
 Sua classe deve incluir um membro de dados do tipo double para representar o saldo da conta.
