@@ -3,7 +3,7 @@ Algumas atividades direcionadas a POO passadas pela faculdade para testar os con
 
 Lista de Atividades:
 
-OBS: Explicações mais detalhadas na pasta da propia atividade no arquivo "Explicacao".
+OBS: Explicações mais detalhadas na pasta da propia atividade no arquivo "Explicação".
 
 OBS: Os números de questões que não aparecerem aqui é por que são questões teoricas.
 
