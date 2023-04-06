@@ -1,4 +1,4 @@
-# Atividade_2_questao_16
+# Atividade_2_questao_16: Criação da classe Carro.
 
 Modifique a última versão da Classe Carro desenvolvida na “sala” (presente no slide) de modo que:
 Inclua um segundo membro de dados int que representa o ano do carro;
