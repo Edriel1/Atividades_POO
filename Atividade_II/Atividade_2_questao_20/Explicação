@@ -1,4 +1,4 @@
-Atividdade_2_questao_20: Criaçaõ da classe Cupom.
+Atividdade_2_questao_20: Criação da classe Cupom.
 
 Crie uma Classe chamada Cupom que uma loja de suprimentos de informática possa utilizar para representar um cupom de um item vendido na loja.
 Um Cupom deve incluir quatro membros de dados - id (string), descrição (string), quantidade (int) e o preço do item (float).
