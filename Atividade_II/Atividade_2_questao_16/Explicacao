@@ -1,0 +1,7 @@
+# Atividade_2_questao_16
+
+Modifique a última versão da Classe Carro desenvolvida na “sala” (presente no slide) de modo que:
+Inclua um segundo membro de dados int que representa o ano do carro;
+Forneça uma função set para alterar o ano e uma função get para recuperá-lo;
+Modifique o construtor para aceitar dois parâmetros: um para a marca e outro para o ano;
+Modifique o método displayMessage para que ele apresente na tela a marca e o ano do carro.
