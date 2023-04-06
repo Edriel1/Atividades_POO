@@ -1,0 +1,9 @@
+Ativida_2_questao_19: Criação da classe Data.
+
+Crie uma Classe Data que inclua 3 partes de informações como atributos
+- dia (int), mes (int) e ano (int).
+Sua Classe deve ter um construtor com três parâmetros que utilize os parâmetros para inicializar os 3 membros de dados.
+Para o propósito deste exercício, assuma que os valores fornecidos para o dia e ano estão corretos, mas certifique-se de que o valor do mês esteja no intervalo 1-12;se não estiver, configure o mês como 1.
+Forneça uma função set e uma função get para cada membro de dados.
+Forneça também uma função-membro mostrarData que exiba o dia, o mês e o ano separados por barras (/).
+Escreva um programa que demonstre as capacidades da sua Classe Date.
