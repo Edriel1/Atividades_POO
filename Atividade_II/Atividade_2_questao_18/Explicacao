@@ -1,0 +1,10 @@
+Atividade_2_questao_18
+
+Crie uma Classe chamada Empregado que possui 3 membros de dados - 
+um nome, um sobrenome e um salário mensal.
+Sua Classe deve ter um construtor que inicialize os 3 membros de dados.
+Forneça uma função set e uma função get para cada membro de dados.
+Se o salário mensal não for positivo, configure-o como 0.
+Escreva um programa de teste que demonstre as capacidade da classe Empregado.
+Crie dois objetos Empregado e exiba seu salário mensal.
+Em seguida, dê um aumento de 10% para cada um dos empregados e exiba novamente o salário mensal.
