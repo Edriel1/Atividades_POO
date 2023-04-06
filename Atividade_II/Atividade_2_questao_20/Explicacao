@@ -1,0 +1,10 @@
+Atividdade_2_questao_20: Criaçaõ da classe Cupom.
+
+Crie uma Classe chamada Cupom que uma loja de suprimentos de informática possa utilizar para representar um cupom de um item vendido na loja.
+Um Cupom deve incluir quatro membros de dados - id (string), descrição (string), quantidade (int) e o preço do item (float).
+Sua Classe deve ter um construtor que inicializa os 4 membros de dados.
+Forneça uma função set e uma função get para cada membro de dados.
+Além disso, forneça uma função-membro chamada de calculaCupom que calcula o valor total da nota e depois retorna esse valor.
+Se a quantidade não for positiva, ela deve ser configurada como 0.
+Se o preço do item não for positivo, ele deve ser configurado com 0.
+Escreva uma programa para ilustrar as capacidades de sua Classe Cupom.
