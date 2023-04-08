@@ -1,0 +1,8 @@
+Atividaded_3_questao_8: Criação da classe Retangulo.
+
+(Classe Retangulo) Crie uma Classe Retangulo com atributos altura e largura, cada um dos quais assume o padrão 1.0 (no construtor).
+Forneça métodos get e set para esses atributos. Os métodos set devem verificar se o valor passado é maior que 0.0 e menor que 20.0.
+Caso não seja, deve ser atribuído o valor 1 ao atributo.
+Além disso, forneça métodos que:
+Calcula e retorna o perímetro do retângulo
+Calcula e retorna a área do retângulo
