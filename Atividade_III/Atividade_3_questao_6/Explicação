@@ -1,1 +1,10 @@
-Atividade_6_ques
+Atividade_6_questao_6: Criação da classe Time.
+
+(Aprimorando a Classe Time) Modifique a Classe Time da última versão em “sala” (Aula7Ex3) para incluir um método tick que incrementa 1 segundo à hora.
+O objeto Time sempre deve permanecer em um estado consistente.
+Escreva um programa que testa o seu método tick.
+Certifique-se de testar os seguintes casos:
+Incrementar para o próximo minuto. Ex.: 11h50m59 + 1s -> 11h51m00
+Incrementar para a próxima hora. Ex.: 11h59m59 + 1s -> 12h00m00
+Incrementar para o próximo dia. Ex.: 23h59m59 + 1s -> 0h00m00
+
