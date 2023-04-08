@@ -1,0 +1,9 @@
+Atividade_3_questao_7: Aprimorando a classe Time.
+
+(Aprimorando a Classe Time) Forneça um construtor que seja capaz de utilizar a hora atual da função time()
+- disponível através da biblioteca <ctime> - para inicializar um objeto da Classe Time.
+Para tanto:
+Use a última versão de “sala” da Classe Time (Aula7Ex3).
+Remova o argumento default mais a esquerda (da hora) do construtor.
+Adicione um novo construtor sem parâmetros (sobrecarregando o construtor) que inicializa o objeto com a hora atual.
+Pesquise como pegar a hora atual do sistema a partir da função time() da biblioteca <ctime>.
