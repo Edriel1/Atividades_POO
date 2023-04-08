@@ -1,0 +1,9 @@
+Atividade_3_questao_9: Criação da classe Pessoa.
+
+(Classe Pessoa) Crie uma Classe Pessoa com atributos nome, CPF e CPFvalido.
+Você deverá definir apenas um construtor e este deverá receber o nome e o CPF.
+Forneça métodos get e set para os dois primeiros atributos.
+A Classe deverá validar o CPF e em função disso setar o valor para o atributo CPFvalido (true ou false).
+Considere que o CPF seja passado como uma sequência de 11 dígitos, sem pontos e sem traços.
+Escreva também um método chamado apresentar que exibe na tela o nome e o CPF.
+Ao exibir o CPF, deverá constar entre parênteses a situação do CPF (“Válido” ou “Inválido”).
