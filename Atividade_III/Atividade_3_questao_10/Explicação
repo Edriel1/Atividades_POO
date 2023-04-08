@@ -1,0 +1,12 @@
+Atividade_3_questao_10: Criação da classe HugenInteger.
+
+(Classe HugeInteger) Crie uma Classe HugeInteger que utiliza um array de 40 elementos (char) para armazenar inteiros de até 40 dígitos.
+Forneça os métodos:
+input: recebe uma string contendo o inteiro.
+O método deve verificar se realmente está recebendo um número.
+Não precisa considerar sinal (+ ou -), pois os números quando corretos sempre serão positivos.
+output: imprime o número na saída padrão
+add: soma objeto com outro HugeInteger 
+isEqualTo, isNotEqualTo, isGreaterThan, isLessThan, isGreaterThanOrIqual e isLessThanOrIqual (==,!=,>,<,>=,<=):
+compara o objeto com outro objeto HugeInteger passado como argumento.
+O retorno deve ser do tipo bool, isto é, true ou false.
